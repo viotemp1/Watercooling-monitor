@@ -18,7 +18,7 @@ SDA		-	to 3
 SCL		-	to 2
 INT		-	to 11
 
-AMG8833 will monitor the liquid temperature (should me mounted on the highest part of cooling system (transparent resevoir or tube/pipe) just bellow the air/liquid line.
+AMG8833 will monitor the liquid temperature - should me mounted on the highest part of cooling system (transparent resevoir or tube/pipe) just bellow the air/liquid line.
 
 ![Sensor](https://github.com/viotemp1/Watercooling-monitor/blob/main/sensor.png)
 
