@@ -19,7 +19,8 @@ SCL		-	to 2
 INT		-	to 11
 
 AMG8833 will monitor the liquid temperature (should me mounted on the highest part of cooling system (transparent resevoir or tube/pipe) just bellow the air/liquid line.
-It will report temperature difference between liquid and air. 
+![Sensor](https://github.com/viotemp1/Watercooling-monitor/blob/main/sensor.png)
+System will monitor temperature difference between liquid and air. 
 When this is bellow a limit (-1 in my case) it can trigger an alarm (optional buzzer). This can happen when there are leaks and the water level drop bellow sensor.
 Readings (delta temp) can be also monitored with external script (python in my case) by sending commands periodically via serial port.
 
