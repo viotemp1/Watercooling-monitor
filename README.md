@@ -24,7 +24,7 @@ AMG8833 will monitor the liquid temperature (should me mounted on the highest pa
 
 System will monitor temperature difference between liquid and air. 
 When this is bellow a limit (-1 in my case) it can trigger an alarm (optional buzzer). This can happen when there are leaks and the water level drop bellow sensor.
-Readings (delta temp) can be also monitored with external script (python in my case) by sending commands periodically via serial port.
+Readings (delta temp) can be also monitored with external python script (or collectd - not tested) via serial port.
 
 System Full Load - 7°C difference
 
