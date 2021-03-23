@@ -12,7 +12,7 @@ MicroView USB
 
 AMG8833
 V+		-	to 15
-3V		-	
+3V		-	N/A
 GND	  -	to 8
 SDA		-	to 3
 SCL		-	to 2
