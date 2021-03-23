@@ -24,3 +24,4 @@ When this is bellow a limit (-1 in my case) it can trigger an alarm (optional bu
 Readings (delta temp) can be also monitored with external script sendinf commands periodically via serial port.
 
 
+[Monitoring](https://github.com/viotemp1/Watercooling-monitor/blob/main/Screenshot.png)
