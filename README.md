@@ -26,9 +26,13 @@ System will monitor temperature difference between liquid and air.
 When this is bellow a limit (-1 in my case) it can trigger an alarm (optional buzzer). This can happen when there are leaks and the water level drop bellow sensor.
 Readings (delta temp) can be also monitored with external python script (or collectd - not tested) via serial port.
 
-System Full Load - 7°C difference
+System Full Load => 7°C difference
 
-![System Full Load - 7°C difference](https://github.com/viotemp1/Watercooling-monitor/blob/main/MicroView_system_full_load.png)
+![System Full Load => 7°C difference](https://github.com/viotemp1/Watercooling-monitor/blob/main/MicroView_system_full_load.png)
+
+System Idle => ~0°C difference
+
+![System Idle => ~0°C difference](https://github.com/viotemp1/Watercooling-monitor/blob/main/MicroView_system_idle.png)
 
 ![Monitoring](https://github.com/viotemp1/Watercooling-monitor/blob/main/Screenshot.png)
 
